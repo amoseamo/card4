@@ -1,0 +1,15 @@
+#png{
+	height:350px;
+	width:550px;
+	border-radius:30px;
+	box-shadow:30px 30px lightblue;
+}
+img{
+	width:100%;
+	border-radius:50px;
+}
+#body{
+	margin:auto;
+	height:500px;
+	width:600px;
+}
